@@ -7,5 +7,5 @@ img: byciskala.jpeg
 tags: [běh, short]
 ---
 
-Vydali jsme se na krátkou verzi běhu na Býčí skálu. Po kalbe, squashi a nemoci jsme nepodali
+Vydali jsme se na krátkou verzi běhu na Býčí skálu. Po kalbě, squashi a nemoci jsme nepodali
     výkony, ale užili si společný běh po celou dobu závodu. 
