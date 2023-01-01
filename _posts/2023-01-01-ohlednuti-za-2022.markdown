@@ -21,7 +21,7 @@ a také celková čísla našeho zájmového klubu.
 | Michal | 130           | 1542 km    | 152h 0m  | 38 041 m  |
 | Petr   | 130           | 1001 km    | 121h 33m | 25 811 m  |
 | Jirka  | 71            | 799 km     | 87h 32m  | 21 978 m  |
-| Žanek  | ?             | ?          | ?        | ?         |
+| Žanek  | 30            | 308 km     | 31h 27m  | 5 073 m   |
 
 
 ## Závody, kterých jsme se zúčastnili
@@ -29,13 +29,14 @@ a také celková čísla našeho zájmového klubu.
 * Blanenská desítka
 * Brněnský běžecký pohár
 * Brněnský masakr
-* Běh na býčí skálu
+* Běh na Býčí skálu
 * Běh osvobození Vacenovic
 * Běh pro Hospic
 * Běh za sedmizubým hřebenem
 * Galago
 * Ještěd SkyRace
-* Půlmaraton moravským krasem
+* Kozojedská desítka
+* Půlmaraton Moravským krasem
 * Zapomenuté hory
 
 
@@ -46,7 +47,7 @@ Ty hlavní byly:
 
 ### Wilsonův les
 
-Petr, zvaný král Wilsnova lesa,  bojoval o všechny segmenty v okolí sjezdovky ve Wilsonově lese a na konci roku si úspěšně udržel status Local legend hned na dvou segmentech.
+Petr, zvaný král Wilsonova lesa,  bojoval o všechny segmenty v okolí sjezdovky ve Wilsonově lese a na konci roku si úspěšně udržel status Local legend hned na dvou segmentech.
 
 Segment [schody na sjezdovce](https://www.strava.com/segments/7245409) skončil se 40 pokusy,
 náročnější hlavní segment [Sjezdovka climb od cesty](https://www.strava.com/segments/22360052) byl ke konci roku pokořen
