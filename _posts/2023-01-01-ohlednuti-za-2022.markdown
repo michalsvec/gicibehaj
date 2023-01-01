@@ -3,13 +3,15 @@ layout: post
 title: Ohlédnutí za sezonou 2022
 date: 2023-01-01 13:00:00
 description: Ohlédnutí za sezonou 2022
-img: syrovice-2022.jpeg
+img: souhrn-2022.jpeg
 tags: [data]
 author: Michal
 ---
 
-Klub gici behal čítal v roce 2022 celkem 4,5 aktivních členů. 
-Dnes si představíme jejich souhrné výkony a také celková čísla našeho zájmového klubu. 
+Klub gici behal čítal v roce 2022 celkem 4,5 aktivních členů 
+(Honza se drží na hraně požadovaného tréninkového objemu). 
+Dnes si představíme souhrné výkony jednotlivých borců 
+a také celková čísla našeho zájmového klubu. 
 
 ## Naše výkony
 
@@ -22,18 +24,35 @@ Dnes si představíme jejich souhrné výkony a také celková čísla našeho z
 | Žanek  |               |            |          |           |
 
 
-
-
-
 ## Závody, kterých jsme se zúčastnili
 
+* Blanenská desítka
+* Brněnský běžecký pohár
+* Brněnský masakr
+* Běh na býčí skálu
+* Běh osvobození Vacenovic
+* Běh pro Hospic
+* Běh za sedmizubým hřebenem
 * Galago
 * Ještěd SkyRace
-* Běh za sedmizubým hřebenem
-* Běh pro Hospic
-* Blanenská desítka
-* Brněnský masakr
 * Půlmaraton moravským krasem
 * Zapomenuté hory
-* Brněnský běžecký pohár
-* Běh na býčí skálu
+
+
+## Segmenty o které jsme bojovali
+
+Ne rychlostí, ale snahou jsme se snažili pokořit Local Legeng na několika segmentech. 
+Ty hlavní byly:
+
+### Wilsonův les
+
+Petr, zvaný král Wilsnova lesa,  bojoval o všechny segmenty v okolí sjezdovky ve Wilsonově lese a na konci roku si úspěšně udržel status Local legend hned na dvou segmentech.
+
+Segment [schody na sjezdovce](https://www.strava.com/segments/7245409) skončil se 40 pokusy,
+náročnější hlavní segment [Sjezdovka climb od cesty](https://www.strava.com/segments/22360052) byl ke konci roku pokořen
+celkem 29×.
+
+### Bílenda
+
+Michal ztratil ke konci roku segment na Bílou horu, který velkou část roku držel, 
+ale nemoc znemožnila uhájit segment [Na Bílendu po asfaltu](https://www.strava.com/segments/19815491) až do konce roku.  
