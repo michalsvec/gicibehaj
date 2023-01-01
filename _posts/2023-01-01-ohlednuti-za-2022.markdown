@@ -1,0 +1,77 @@
+---
+layout: post
+title: Ohlédnutí za sezonou 2022
+date: 2023-01-01 13:00:00
+description: Ohlédnutí za sezonou 2022
+img: souhrn-2022.jpeg
+tags: [data]
+author: Michal
+---
+
+Klub gici behal čítal v roce 2022 celkem 4,5 aktivních členů 
+(Honza se drží na hraně požadovaného tréninkového objemu). 
+Dnes si představíme souhrné výkony jednotlivých borců 
+a také celková čísla našeho zájmového klubu. 
+
+## Naše výkony
+
+| Borec  | Počet aktivit | Vzdálenost | Čas      | Převýšení |
+|--------|---------------|------------|----------|-----------|
+| Ondra  | 165           | 1927 km    | 183h 48m | 53 151 m  |
+| Michal | 130           | 1542 km    | 152h 0m  | 38 041 m  |
+| Petr   | 130           | 1001 km    | 121h 33m | 25 811 m  |
+| Jirka  | 71            | 799 km     | 87h 32m  | 21 978 m  |
+| Žanek  | 30            | 308 km     | 31h 27m  | 5 073 m   |
+
+
+Celková klubová čísla tedy jsou: 
+* Počet běžeckých aktivit: **526**
+* Uběhnutá vzdálenost: **5577 km**
+* Čas strávený běháním: **576h 20m**
+* Nastoupané výškové metry: **143 955 m**
+
+👏
+
+## Závody, kterých jsme se zúčastnili
+
+* [Blanenská desítka](http://www.blanenskadesitka.cz/)
+* [Brněnský běžecký pohár](https://www.brnenskybezeckypohar.cz/)
+* [Brněnský masakr](https://www.brnenskymasakr.cz/)
+* [Běh na Býčí skálu](https://oris.orientacnisporty.cz/Zavod?id=6836)
+* [Běh osvobození Vacenovic](https://bkhod.webnode.cz/)
+* [Běh pro Hospic](https://www.behprohospic-brno.cz/)
+* [Běh za sedmizubým hřebenem](https://boskovice.sportujsnami.cz/)
+* [Galago trailový běžecký pohár](http://www.galagotrail.cz/)
+* [Ještěd SkyRace](https://jestedskyrace.cz/jestedskyrace/)
+* Kozojedská desítka
+* Ostrava City 1/2 Marathon
+* Pražská štafeta
+* [Půlmaraton Moravským krasem](http://askblansko.cz/pmk-2022/)
+* TriExpert Cup Popůvky
+* [Zapomenuté hory](http://www.zapomenutehory.cz/)
+
+
+## Segmenty o které jsme bojovali
+
+Ne rychlostí, ale snahou jsme se snažili pokořit Local Legeng na několika segmentech. 
+Ty hlavní byly:
+
+### Wilsonův les
+
+Petr, zvaný král Wilsonova lesa,  bojoval o všechny segmenty v okolí sjezdovky ve Wilsonově lese a na konci roku si úspěšně udržel status Local legend hned na dvou segmentech.
+
+Segment [schody na sjezdovce](https://www.strava.com/segments/7245409) skončil se 40 pokusy,
+náročnější hlavní segment [Sjezdovka climb od cesty](https://www.strava.com/segments/22360052) byl ke konci roku pokořen
+celkem 29×.
+
+### Bílenda
+
+Michal ztratil ke konci roku segment na Bílou horu, který velkou část roku držel, 
+ale nemoc znemožnila uhájit segment [Na Bílendu po asfaltu](https://www.strava.com/segments/19815491) až do konce roku.  
+
+## Žebětín
+
+Ondra ovládá okolí Žebětína, kde je Local Legend [
+Louka nad Žebětínem - silnice](https://www.strava.com/segments/16266393) s 18 pokusy 
+a speciálně [Grand Prix-Helenčina studánka](https://www.strava.com/segments/22291410), kde se pyšní 
+Local Legend (19 pokusů) a zároveň KOM. 
