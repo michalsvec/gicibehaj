@@ -20,8 +20,8 @@ a také celková čísla našeho zájmového klubu.
 | Ondra  | 165           | 1927 km    | 183h 48m | 53 151 m  |
 | Michal | 130           | 1542 km    | 152h 0m  | 38 041 m  |
 | Petr   | 130           | 1001 km    | 121h 33m | 25 811 m  |
-| Jirka  |               |            |          |           |
-| Žanek  |               |            |          |           |
+| Jirka  | 71            | 799 km     | 87h 32m  | 21 978 m  |
+| Žanek  | ?             | ?          | ?        | ?         |
 
 
 ## Závody, kterých jsme se zúčastnili
