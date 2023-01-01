@@ -1,0 +1,39 @@
+---
+layout: post
+title: Ohlédnutí za sezonou 2022
+date: 2023-01-01 13:00:00
+description: Ohlédnutí za sezonou 2022
+img: syrovice-2022.jpeg
+tags: [data]
+author: Michal
+---
+
+Klub gici behal čítal v roce 2022 celkem 4,5 aktivních členů. 
+Dnes si představíme jejich souhrné výkony a také celková čísla našeho zájmového klubu. 
+
+## Naše výkony
+
+| Borec  | Počet aktivit | Vzdálenost | Čas      | Převýšení |
+|--------|---------------|------------|----------|-----------|
+| Ondra  | 165           | 1927 km    | 183h 48m | 53 151 m  |
+| Michal | 130           | 1542 km    | 152h 0m  | 38 041 m  |
+| Petr   | 130           | 1001 km    | 121h 33m | 25 811 m  |
+| Jirka  |               |            |          |           |
+| Žanek  |               |            |          |           |
+
+
+
+
+
+## Závody, kterých jsme se zúčastnili
+
+* Galago
+* Ještěd SkyRace
+* Běh za sedmizubým hřebenem
+* Běh pro Hospic
+* Blanenská desítka
+* Brněnský masakr
+* Půlmaraton moravským krasem
+* Zapomenuté hory
+* Brněnský běžecký pohár
+* Běh na býčí skálu
