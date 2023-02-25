@@ -60,9 +60,9 @@ Výsledný stav tak tedy byl:
 3. Pepa 44:00
 4. Petr 44:38
 
+Z výsledků je vidět, jak Petr snížil ztrátu na Pepu a příště to bude opět drama. 
 
 Je nyní na trenérech našeho klubu, aby upravili tréninkový plán a naladili Petra na závěrečný 
 závod na Pepově domácí Boskovické půdě, kde už za měsíc vyvrcholí letošní BBP. 
-
 
 Díky za podporu všem fanouškům!
