@@ -97,4 +97,5 @@ Ze závodu si osobně odnáším několik poučení:
 - Měl bych víc běhat kopce.
 - Pokud se zpotím, musím se vždy osprchovat.
 - Kamarádi v gici behaj jsou největší oporou mých výkonů.
+- Změna klimatu je opravdová a je to vážný problém.
 - Měl bych někdy zkusit porazit toho Petra!
