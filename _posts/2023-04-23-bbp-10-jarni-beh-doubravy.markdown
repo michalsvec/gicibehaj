@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BBP 10 - BBP 10 Jarní běh DOUBRAVY
-date: 2023-04-23 22:00:00
-description: BBP 10 - BBP 10 Jarní běh DOUBRAVY
+title: BBP 10 - 2023 - Jarní běh DOUBRAVY
+date: 2023-03-26 22:00:00
+description: BBP 10 Jarní běh DOUBRAVY
 img: boskovice-2023.jpg
 tags: [běh, BBP]
 author: Ondra
@@ -19,9 +19,9 @@ V cíli jsem teda místo gratulací přijal opět plechovku redbulu a šel sem f
 
 Výsledky gici behaj:
 
-12. Beneš Ondřej	38:23
-31. Švec Michal 	43:08
-39. Vácha Petr		45:59
+12. Ondřej	38:23
+31. Michal 	43:08
+39. Petr	45:59
 
 Po gratulacích se už čekalo jen na vyhodnocení, já sem teda nic neočekával, ale jiní ano. Petr se letos fakt snažil aby získal účastnický pohár. V kanceláři rozhodčích byl hned několikrát dožadovat se svého zaslouženého poháru, který mu ale nakonec opravdu dali a věřím, že podobně jak můj loňský účastnický pohár dostal prominetní místo, aby jej každý viděl. Dík všem za účast, dík klukům, že mě dokopali aspoň na pár závodů a kdo ví, třeba na podzim zas BBP.
 
