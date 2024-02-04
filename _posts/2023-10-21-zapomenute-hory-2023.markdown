@@ -20,6 +20,5 @@ Zpátky k závodu. Nevím, jak Míšovi, ale mně se běželo parádně. Žádn�
 
 ## Časy
 Michal  02:47:08
-...
 Petr    03:25:24
 
